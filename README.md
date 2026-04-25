@@ -88,6 +88,8 @@ Al insertar estos datos, el árbol queda con la siguiente forma:
 
 ### 4. Recorridos (Inorden, Preorden, Postorden)
 ![Recorridos](capturas/recorridos.png)
+![Recorridos2](capturas/recorridos2.png)
+![Recorridos3](capturas/recorridos3.png)
 
 ### 5. Altura y Nodos Hoja
 ![Altura y Hojas](capturas/altura_hojas.png)

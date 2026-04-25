@@ -1,9 +1,8 @@
 # Árbol BST Empresarial en C++
 
 **Asignatura:** Estructura de Datos  
-**Tema:** Árboles Binarios de Búsqueda (BST)  
-**Trabajo:** Individual  
-**Integrante:** JeampyON  
+**Tema:** Árboles Binarios de Búsqueda (BST)    
+**Nombre:** Marlon Jeampierre Ortiz Torres
 
 ## Objetivo
 
@@ -94,7 +93,7 @@ Al insertar estos datos, el árbol queda con la siguiente forma:
 ![Altura y Hojas](capturas/altura_hojas.png)
 
 
-## ▶️ Cómo Compilar y Ejecutar
+## Cómo Compilar y Ejecutar
 
 ### Requisitos
 - Compilador g++ (MinGW en Windows)

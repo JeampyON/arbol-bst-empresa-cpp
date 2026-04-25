@@ -39,7 +39,7 @@ Un BST es una estructura de datos jerárquica donde cada nodo puede tener como m
 - Mostrar los nodos hoja
 
 ## Estructura del Repositorio
-
+```
 arbol-bst-empresa-cpp/
 ├── README.md
 ├── src/
@@ -51,6 +51,7 @@ arbol-bst-empresa-cpp/
     ├── recorridos.png
     └── altura_hojas.png
 
+```
 ## Datos de Prueba
 
 Los siguientes empleados fueron utilizados para probar el funcionamiento del árbol:
